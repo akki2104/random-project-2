@@ -28,3 +28,22 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/akki2104/random-project-2.git
+## Contributing
+
+Contributions are welcome and encouraged! If you have any ideas, improvements, or bug fixes, feel free to open an issue or create a pull request. Here's how you can contribute:
+
+1. Fork the repository.
+
+   ```bash
+   git clone https://github.com/yourusername/portfolio-web-app.git
+2. Add branch
+   ```bash
+   git checkout -b feature/your-feature
+3.Commit your changes
+   ```bash
+   git commit -m "Added a new feature"
+```
+4.Push Your changes/feature
+   ```bash
+   git push origin feature/your-feature
+
